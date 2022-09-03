@@ -1,0 +1,25 @@
+1.Odpal swoje radialmenu
+2.Wejdz do config.lua
+3.Wklej to do CONFIG.MENUITEM
+
+   {
+       id    = 'praca',
+       title = 'Zmień prace',
+       icon = '#dokumenty',
+       type = 'server',
+       event = 'dx-secondjob:getsecondjob',
+       shouldClose = true,
+   },
+
+
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+   niff#1312
+
